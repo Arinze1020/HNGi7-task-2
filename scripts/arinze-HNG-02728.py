@@ -1,6 +1,4 @@
-name = 'Ugwuanyi Arinze Emmanuel'
-my_id = 'HNG-02728'
-email = 'arinzeugwuanyi@gmail.com'
-language = 'Python'
-output = "Hello world, this is " + name + " with HNGi7 ID " + my_id +  " using " + language + " for stage 2 task"
-print(output)
+
+
+print ("Hello World, this is Ugwuanyi Arinze Emmanuel with HNGi7 ID HNG-02728 and email arinzeugwuanyi@gmail.com using Python for stage 2 task")
+
